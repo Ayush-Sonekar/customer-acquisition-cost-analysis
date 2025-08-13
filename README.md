@@ -52,9 +52,3 @@ You can replace `data/customer_acquisition_cost_dataset.csv` with real campaign 
 All charts are interactive and can be viewed as HTML files.
 
 ---
-
-## How to Run
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/customer-acquisition-cost-analysis.git
-cd customer-acquisition-cost-analysis
